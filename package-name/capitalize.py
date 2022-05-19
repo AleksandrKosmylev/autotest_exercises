@@ -5,5 +5,3 @@ def capitalize(text):
     rest_substring = text[1:]
     return f'{first_char}{rest_substring}'
 
-
-print(capitalize('hello, hexlet!'))
